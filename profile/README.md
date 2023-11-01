@@ -1,12 +1,12 @@
-## Hi there 👋
+# Projektentwurf "Multiplayer-Car-Racing-Game"
 
-<!--
+## Einleitung
+Das Ziel des Projekts ist die Entwicklung eines Multiplayer-Car-Racing-Games, bei dem mehrere Spieler gleichzeitig Rennen fahren können. Die folgende Ausarbeitung behandelt die Planung und die Organisation dieses Projekts.
 
-**Here are some ideas to get you started:**
+## Organisation
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. Teamstruktur
+    - Wir organisieren uns in 2er-Teams, um eine effektive Zusammenarbeit sicherzustellen. So wird die Kommunikation untereinander und die Verteilung der Aufgaben vereinfacht.
+    - 4 Personen (Zwei 2er-Teams) befassen sich zu Beginn mit der eigentlichen Spielentwicklung: Bjarne Zaremba, Danny Meihöfer / Mattis Wellenbüscher, Marvin Petschulat
+    - 2 Personen (Ein 2er-Team) befasst sich mit der Implementierung von Socket.io: David Stevic, Lukas Landmann
+2. 
