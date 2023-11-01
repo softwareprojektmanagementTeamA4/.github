@@ -10,7 +10,6 @@ Das Ziel des Projekts ist die Entwicklung eines Multiplayer-Car-Racing-Games, be
     - 4 Personen (Zwei 2er-Teams) befassen sich zu Beginn mit der eigentlichen Spielentwicklung: Bjarne Zaremba, Danny Meihöfer / Mattis Wellenbüscher, Marvin Petschulat
     - 2 Personen (Ein 2er-Team) befasst sich mit der Implementierung von Socket.io: David Stevic, Lukas Landmann
     - Verteilung der Rollen:
-        - Product Owner: Steffi Meihöfer
         - !!TODO!!
 2. Kommunikation
     - Wir nutzen Discord für regelmäßige Team-Meetings, sowie Text- und Sprachkommunikation.
