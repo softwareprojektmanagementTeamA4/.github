@@ -9,6 +9,9 @@ Das Ziel des Projekts ist die Entwicklung eines Multiplayer-Car-Racing-Games, be
     - Wir organisieren uns in 2er-Teams, um eine effektive Zusammenarbeit sicherzustellen. So wird die Kommunikation untereinander und die Verteilung der Aufgaben vereinfacht.
     - 4 Personen (Zwei 2er-Teams) befassen sich zu Beginn mit der eigentlichen Spielentwicklung: Bjarne Zaremba, Danny Meihöfer / Mattis Wellenbüscher, Marvin Petschulat
     - 2 Personen (Ein 2er-Team) befasst sich mit der Implementierung von Socket.io: David Stevic, Lukas Landmann
+    - Verteilung der Rollen:
+        - Product Owner: Steffi Meihöfer
+        - !!TODO!!
 2. Kommunikation
     - Wir nutzen Discord für regelmäßige Team-Meetings, sowie Text- und Sprachkommunikation.
     - Wir möchten mindestens einmal in der Woche ein Jour-Fixe etabilieren, bei dem jedes Teammitglied von seinen Erfolgen der letzen Woche, sowie seiner Planung für die kommende Woche berichtet.
@@ -22,6 +25,14 @@ Das Ziel des Projekts ist die Entwicklung eines Multiplayer-Car-Racing-Games, be
         - Done for Branch: Aufgaben, die für den jeweiligen Branch abgeschlossen sind, und reviewed werden müssen
         - In Review: Abgeschlossene Aufgaben, die sich im Review befinden
         - Ready for merge: Aufgaben, die erfolgreich gereviewed worden sind und auf den Master-Branch gemerged werden können
+4. Anforderungsbeschreibung und Priorisierung
+    - Wir nutzen "GitHub-Issues", um Feautures, User-Stories und Tasks zu erstellen und zu verwalten. Dies funktioniert mithilfe von passenden Labels.
+    - Die Priorisierung wird in erster Ebene durch "GitHub-Milestones" realisiert. Diese geben vor, welches Feature in welcher Zeit bearbeitet werden soll.
+    - Innerhalb der Meilensteine wollen wir die Aufgaben dann noch mithilfe von Labels (high-priority, middle..., low...) priorisieren.
+5. Randbedingungen des Projekts
+    - Abgabetermin des Projekts: 11. Januar 2024
+    - Budget: Kein Budget
+    - Rechtliche Anforderungen: Rechtliche Anforderungen wie Datenschutzbestimmungen, Urheberrechte und Lizenzbedingungen werden berücksichtigt.
 
     
 ## Projektentwicklung und Zusammenarbeit im Team
