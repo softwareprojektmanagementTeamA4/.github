@@ -54,8 +54,21 @@ Das Ziel des Projekts ist die Entwicklung eines Multiplayer-Car-Racing-Games, be
     - Zur Softwareentwicklung nutzen wir VSCode, sowie andere geeignete IDE's.
     - Außerdem werden Grafik- und Soundentwicklungstools, wie Photoshop und FLStudio verwendet. 
 
-
-
+## Technische Aspekte
+1. Programmiersprachen und Technologien
+    - Wir entwickeln 2 Client-Anwendungen (Einmal in Python und einmal in Java).
+    - Server???
+    - Zur bidirektionalen Kommunikation verwenden wir Socket.io.
+2. GitHub
+    - Link zur Organisation: https://github.com/softwareprojektmanagementTeamA4
+    - Jedes 2er Team arbeitet auf einem eigenen Branch, von dem aus es selbstständig weitere Branches erstellen und verwalten kann.
+    - Das Testen des Codes wird mithilfe von GitHub-Actions realisiert. Jedesmal, wenn auf den Master-Branch gemerged wird, wird ein automatisierter Job ausgeführt, der den Code umfangreich testet.
+    - Bei jedem Push wird die Code-Formatierung auf Google-Standards überprüft.
+3. Schnittstellen
+    - Socket.io
+    - GUI
+4. Code Reviews/Pull Requests
+    - 
 
 
 
@@ -64,4 +77,5 @@ Das Ziel des Projekts ist die Entwicklung eines Multiplayer-Car-Racing-Games, be
 
 ## Fragen an Prof. Brunsmann
 - Wo wird die Anwendung deployed (FH-Server)?
-- 
+- Browser-Game oder Desktop-Version?
+- Programmiersprache Server?
