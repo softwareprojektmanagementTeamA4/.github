@@ -67,12 +67,26 @@ Das Ziel des Projekts ist die Entwicklung eines Multiplayer-Car-Racing-Games, be
     - Socket.io
     - GUI
 4. Code Reviews/Pull Requests
-    - 
-
-
-
-
-
+    - Ein Code-Review wird von mindestens einer Person jedes Teams durchgeführt.
+    - Aspekte des Code-Reviews:
+        - Kommentare
+        - Variablen-, Methoden- und Klassenbezeichnungen
+        - Formatierungen
+        - Funktionalität des Codes
+        - Unklarheiten im Code?
+    - Der Master-Branch des Repositorys wird protected, d.h. es kann nur nach erfolgreichem Code-Review auf diesen germerged werden.
+  
+## Weiteres Vorgehen
+- Spielteam:
+    1. In Javascript einlesen/einarbeiten			
+    2. Im SourceCode einarbeiten
+    3. Aufgaben fürs Kanban erstellen			
+    4. Bearbeiten der Aufgaben beginnen
+- SocketIO-Team:
+    1. In die Dokumentation von SocketIO einarbeiten				
+    2. Grundlegende Serverarchitektur erstellen				
+    3. Sich dem Spielteam anschließen				
+				
 
 ## Fragen an Prof. Brunsmann
 - Wo wird die Anwendung deployed (FH-Server)?
