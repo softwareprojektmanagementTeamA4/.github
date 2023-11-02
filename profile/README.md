@@ -10,7 +10,14 @@ Das Ziel des Projekts ist die Entwicklung eines Multiplayer-Car-Racing-Games, be
     - 4 Personen (Zwei 2er-Teams) befassen sich zu Beginn mit der eigentlichen Spielentwicklung: Bjarne Zaremba, Danny Meihöfer / Mattis Wellenbüscher, Marvin Petschulat
     - 2 Personen (Ein 2er-Team) befasst sich mit der Implementierung von Socket.io: David Stevic, Lukas Landmann
     - Verteilung der Rollen:
-        - !!TODO!!
+        - Dokumentationsbeauftragter: Wöchentlich wechselnde Aufgabe
+        - Scrummaster: David Stevic
+        - Product Owner: Bjarne Zaremba, Lukas Landmann, Mattis Wellenbüscher
+        - Scrumteam: Bjarne Zaremba, Danny Meihöfer, Lukas Landmann, David Stevic, Marvin Petschulat, Mattis Wellenbüscher
+	- Repo/CI-Maintainer: Bjarne Zaremba
+	- UX/UI-Designer: Marvin Petschulat
+ 	- Softwarearchitekt: Danny Meihöfer 
+
 2. Kommunikation
     - Wir nutzen Discord für regelmäßige Team-Meetings, sowie Text- und Sprachkommunikation.
     - Wir möchten mindestens einmal in der Woche ein Jour-Fixe etabilieren, bei dem jedes Teammitglied von seinen Erfolgen der letzen Woche, sowie seiner Planung für die kommende Woche berichtet.
